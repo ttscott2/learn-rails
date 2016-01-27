@@ -45,7 +45,7 @@ group :development do
   gem 'spring'
 end
 # learn-rails
-gem 'foundation-rails'
+gem 'foundation-rails', '5.5.3.2'
 gem 'gibbon'
 gem 'high_voltage'
 gem 'simple_form'
